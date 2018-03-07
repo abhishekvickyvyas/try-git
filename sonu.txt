@@ -1,0 +1,12 @@
+[{ "date":["27feb", "28feb", "1mar"],
+	"userid":["123","1234","12345"],
+	"contact":["1654645161","jygkjhnk","jxsdhjk"],
+	"event":["attend","abcd","abcde"]
+	},
+	{
+	"date":["27feb", "28feb", "1mar"],
+	"userid":["123","1234","12345"],
+	"contact":["1654645161","jygkjhnk","jxsdhjk"],
+	"event":["attend","abcd","abcde"]
+	}]
+	
